@@ -1,3 +1,5 @@
+//должно быть package seminar; 
+//в следующем тесте аналогично
 package java.seminar;
 
 import org.junit.jupiter.api.Assertions;
